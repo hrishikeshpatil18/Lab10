@@ -1,0 +1,4 @@
+Method references read.
+They provide an.
+lambda expressions for.
+to a method without it.
